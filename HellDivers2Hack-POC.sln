@@ -4,7 +4,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellDivers2Hack-POC", "HellDivers2Hack-POC\HellDivers2Hack-POC.csproj", "{B6A60DDE-27F6-4565-8EEA-3593E9006046}"
-EndProject
+EndEProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
